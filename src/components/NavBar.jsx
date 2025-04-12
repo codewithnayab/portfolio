@@ -30,7 +30,7 @@ const NavBar = () => {
       <a href="#hero" className="logo flex items-center gap-2">
 
     <img
-    src="/src/header.jpg"
+    src="/src/assets/header.jpg"
     alt="Profile"
     className=" h-15 w-15 rounded-full object-cover"
   />
